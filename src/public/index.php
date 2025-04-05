@@ -29,3 +29,7 @@
   </form>
 
 </body>
+
+echo "test";
+
+echo "hoge";
